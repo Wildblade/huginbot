@@ -1,1 +1,1 @@
-worker: hugin.py
+worker: python hugin.py
